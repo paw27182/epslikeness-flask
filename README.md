@@ -6,6 +6,6 @@
 
 <br>
 
-<img src="bizepslikeness.png">
+<img src="epslikeness.png">
 
 <br>
